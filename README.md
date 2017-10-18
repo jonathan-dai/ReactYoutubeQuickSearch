@@ -1,4 +1,4 @@
 * cd ReactYoutubeQuickSearch
 * npm install
-* npmstart
+* npm start
 * localhost:8080
